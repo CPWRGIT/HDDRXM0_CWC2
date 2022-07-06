@@ -8,7 +8,7 @@ node {
   stage('Git to ISPW Synchronization')
   {
     gitToIspwIntegration app: 'GITA',
-    branchMapping: '''feature/FT1/demo_feature => FT1, per-branch
+    branchMapping: '''feature/FT1/demo_feature => FT1, per-commit
       ''',
     connectionId: '38e854b0-f7d3-4a8f-bf31-2d8bfac3dbd4',
     credentialsId: 'HDDRXM0',
