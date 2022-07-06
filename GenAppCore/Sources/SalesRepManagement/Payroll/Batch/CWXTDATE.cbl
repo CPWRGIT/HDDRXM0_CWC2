@@ -7,8 +7,8 @@
       *  THIS CALLED PROGRAM IS PART OF THE COBOL DEMO PROGRAM USED    *
       *  FOR XPEDITER/TSO TRAINING SESSIONS                            *
       *                                                                *
+      * Test 2022/07/06                                                *
       ******************************************************************
-      * 20.11.01 plug-in testing
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
