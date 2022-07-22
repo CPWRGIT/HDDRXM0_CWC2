@@ -7,6 +7,7 @@
       *  THIS CALLED PROGRAM IS PART OF THE COBOL DEMO PROGRAM USED    *
       *  FOR XPEDITER/TSO TRAINING SESSIONS                            *
       *                                                                *
+      * Test 2022/07/06                                                *
       ******************************************************************
       * Jenkins version testing 
        ENVIRONMENT DIVISION.
