@@ -8,7 +8,7 @@
       *  FOR XPEDITER/TSO TRAINING SESSIONS                            *
       *                                                                *
       ******************************************************************
-      * 20.11.01 plug-in testing
+      * Jenkins version testing 
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
