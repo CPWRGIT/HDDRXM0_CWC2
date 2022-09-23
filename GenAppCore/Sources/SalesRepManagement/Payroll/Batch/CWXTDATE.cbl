@@ -7,7 +7,7 @@
       *  THIS CALLED PROGRAM IS PART OF THE COBOL DEMO PROGRAM USED    *
       *  FOR XPEDITER/TSO TRAINING SESSIONS                            *
       *                                                                *
-      * Test 2022/07/06                                                *
+      * Test 2022/07/05                                                *
       * Test 2022/07/22                                                *
       * Test 2022/07/25 - CLI 20.10.01                                 *
       * Test 2022/07/26 - FT1 shakedown                                *
