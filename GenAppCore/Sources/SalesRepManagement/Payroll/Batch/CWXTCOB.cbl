@@ -14,7 +14,7 @@
       *                                                                *
       *  RUN JCL     - STORED IN XPEDITER/TSO SAMPLIB (CWXTJCLC)       *
       *                                                                *
-      * TW 20.11.04                                                    *
+      * TW 20.11.05                                                    *
       ******************************************************************
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
