@@ -5,7 +5,7 @@
       ******      C O M P U W A R E   C O R P O R A T I O N       ******
       *                                                                *
       *  THIS CALLED PROGRAM IS PART OF THE COBOL DEMO PROGRAM USED    *
-      *  FOR XPEDITER/TSO TRAINING SESSIONS-MKS1                       *
+      *  FOR XPEDITER/TSO TRAINING SESSIONS-MKS2                       *
       *                                                                *
       * Test 2022/07/05                                                *
       * Test 2022/07/22                                                *
