@@ -17,6 +17,7 @@
       * TW 20.11.05                                                    *
       ******************************************************************
       * JAN 2023 TESTING
+      * ISPW 22.01 CONFIG UPDATE TEST
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
