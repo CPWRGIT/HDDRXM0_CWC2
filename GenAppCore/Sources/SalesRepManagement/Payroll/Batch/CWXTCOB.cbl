@@ -5,7 +5,7 @@
       ******      C O M P U W A R E   C O R P O R A T I O N       ******
       *                                                                *
       *  THIS PROGRAM IS THE COBOL DEMO PROGRAM USED FOR XPEDITER/TSO  *
-      *  TRAINING SESSIONS.                                            *
+      *  TRAINING SESSIONS. MKS2                                       *
       *                                                                *
       *  INPUT FILE  - EMPLOYEE WAGE INFORMATION                       *
       *              - STORED IN XPEDITER/TSO SAMPLIB (CWXTDATA)       *
@@ -14,8 +14,10 @@
       *                                                                *
       *  RUN JCL     - STORED IN XPEDITER/TSO SAMPLIB (CWXTJCLC)       *
       *                                                                *
-      * TW 20.11.02                                                    *
+      * TW 20.11.05                                                    *
       ******************************************************************
+      * JAN 2023 TESTING
+      * ISPW 22.01 CONFIG UPDATE TEST
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
