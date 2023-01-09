@@ -18,6 +18,7 @@
       ******************************************************************
       * JAN 2023 TESTING
       * ISPW 22.01 CONFIG UPDATE TEST
+      * CWC2 CES UPDATED
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
