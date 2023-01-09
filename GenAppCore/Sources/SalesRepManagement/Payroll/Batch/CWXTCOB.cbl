@@ -18,7 +18,7 @@
       ******************************************************************
       * JAN 2023 TESTING
       * ISPW 22.01 CONFIG UPDATE TEST
-      * CWC2 CES UPDATED
+      * CWC2 CES UPDATED TO FIX JOBNAME
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
