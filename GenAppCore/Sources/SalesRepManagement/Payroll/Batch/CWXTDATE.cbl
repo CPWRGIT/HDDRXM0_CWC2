@@ -12,7 +12,7 @@
       * Test 2022/07/25 - CLI 20.10.01                                 *
       * Test 2022/07/26 - FT1 shakedown                                *
       ******************************************************************
-      * Jenkins version testing 
+      * UPDATED CONFIG DEFINITION
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
