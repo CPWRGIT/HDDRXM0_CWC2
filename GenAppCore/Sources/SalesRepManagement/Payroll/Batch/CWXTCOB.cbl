@@ -19,7 +19,7 @@
       * JAN 2023 TESTING
       * ISPW 22.01 CONFIG UPDATE TEST
       * NOT GETTING NOTIFICATIONS
-      * Stuart 1.11. Test Runtime Config 1
+      * Stuart test through UT2
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
