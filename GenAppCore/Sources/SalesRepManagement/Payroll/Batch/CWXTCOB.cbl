@@ -20,6 +20,7 @@
       * ISPW 22.01 CONFIG UPDATE TEST
       * NOT GETTING NOTIFICATIONS
       * Stuart test through UT2
+      * Ralph 1.12. - Test RUntime Config
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
