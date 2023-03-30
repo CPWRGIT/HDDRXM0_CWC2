@@ -5,18 +5,21 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "xpediter",
+            "type": "workbench-batch",
             "request": "launch",
             "name": "CWXTCOB",
-            "program": "CWXTCOB",
-            "dsn": "ISPWSA0.JCL.LIBRARY(CXWTCOB2)",
+            "hciConnectionName": "cwc2",
+            "jclDatasetMember": "ISPWSA0.JCL.LIBRARY(CXWTCOB2)",
             "jobName": "ISPWSA0A",
-            "step": "STEP1",
-            "DB2": false,
-            "IMS": false,
-            "stopOnEntry": true,
-            "trace": true,
-            "profileName": "cwc2_dsn"
+            "steps": [
+                {
+                    "step": "STEP1",
+                    "program": "CWXTCOB",
+                    "DB2": false,
+                    "IMS": false
+                }
+                      ]
+            
         }
     ]
 }

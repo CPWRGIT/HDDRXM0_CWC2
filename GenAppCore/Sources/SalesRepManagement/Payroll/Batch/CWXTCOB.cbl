@@ -18,7 +18,9 @@
       ******************************************************************
       * JAN 2023 TESTING
       * ISPW 22.01 CONFIG UPDATE TEST
-      * FIX CONFLICT
+      * NOT GETTING NOTIFICATIONS
+      * Stuart test through UT2
+      * Ralph 1.13. - Test TTT to Sonar
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.

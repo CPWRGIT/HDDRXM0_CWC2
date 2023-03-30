@@ -13,6 +13,7 @@
       * Test 2022/07/06                                                *
       ******************************************************************
       * JAN 2023 TESTING
+      * Ralph 1.12. - Test Runtime Config 2      
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
