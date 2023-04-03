@@ -12,6 +12,7 @@
       * Test 2022/07/25 - CLI 20.10.01                                 *
       * Test 2022/07/26 - FT1 shakedown                                *
       * Test 20.14.01 - 30/03/2023
+      * check that the subroutine parm is retained
       ******************************************************************
       * UPDATED CONFIG DEFINITION
        ENVIRONMENT DIVISION.
